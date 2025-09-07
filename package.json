@@ -10,7 +10,7 @@
   "author": "Hermes Gjini",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.4.0",
+    "axios": "^1.7.4",
     "chalk": "^5.3.0",
     "cheerio": "^1.0.0-rc.12",
     "uuid": "^9.0.0",
